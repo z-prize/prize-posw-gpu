@@ -135,8 +135,8 @@ Prizes will be distributed from the total Prize Reward according to a Rank-Weigh
 | Bob | 2nd | 1450 | 2x | 2900 | .26 | 780,000 |
 | Carrol | 3rd | 900 | 1.5x | 1350 | .12 | 360,000 |
 | Dave | 4th | 600 | 1x | 600 | .05 | 150,000 |
-| Eve | 5th | 450 | 1x | 0 (below min) | 0 | $0 |
-| SUM |  | 4900 |  | 10850 | 1.00 | $375,000 |
+| Eve | 5th | 450 | 1x | 0 (below min) | 0 | 0 |
+| SUM |  | 4900 |  | 10850 | 1.00 | 3,000,000 |
 
 
 - Weighted Score =  Total Proofs  *  Rank Multiplier[1]

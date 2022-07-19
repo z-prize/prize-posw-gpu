@@ -1,0 +1,28 @@
+[package]
+name = "prize-posw-gpu"
+authors = ["The Aleo Team <hello@aleo.org>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies.snarkvm]
+git = "https://github.com/AleoHQ/snarkVM"
+branch = "zprize"
+
+[dependencies.snarkvm-algorithms]
+git = "https://github.com/AleoHQ/snarkVM"
+branch = "zprize"
+features = ["cuda"]
+
+[dependencies.snarkvm-dpc]
+git = "https://github.com/AleoHQ/snarkVM"
+branch = "zprize"
+
+[dependencies.snarkvm-utilities]
+git = "https://github.com/AleoHQ/snarkVM"
+branch = "zprize"
+
+[dependencies.rand]
+version = "0.8"
+
+[dependencies.rand_core]
+version = "0.6"
